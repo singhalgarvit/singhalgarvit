@@ -36,7 +36,7 @@
 
 ## 💬 **Let's Connect**
 - 🌟 [Portfolio](https://garvitportfolio.vercel.app/)  
-- 📧 [Email](mailto:garvitsinghal@example.com)  
+- 📧 [Email](mailto:garvitsinghal305@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/garvit-singhal-aa58b0254/)  
 - 🐦 [Twitter](https://x.com/garvit305)
 
